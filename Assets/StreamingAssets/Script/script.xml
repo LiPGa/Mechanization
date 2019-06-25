@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<script>
+    <talk>The acute pain comes from the lower part of my body “wakes” me up. My consciousness hovers around me for seconds, finally it drops in my empty brain.</talk>
+    <talk name="弟弟" emotion="难过">Where am I? </talk>
+    <talk name="姐姐" emotion="高兴">It's in my laboratory.</talk>
+    <talk name="弟弟" emotion="难过">Why did you take me here? </talk>
+    <talk name="弟弟" emotion="难过">Oh, My leg!</talk>
+    <talk name="姐姐" emotion="高兴">Don't you remember? You crazily put the mechanical legs to me... </talk>
+    <talk name="姐姐" emotion="高兴"> Do you know how terrified and despairing I am? But whatever, you are my hostage now. </talk>
+    <talk name="弟弟" emotion="高兴">What do you want to do?</talk>
+    <talk name="姐姐" emotion="高兴">Tit for Tat. I also want you to have the feeling of being mechanized!</talk>
+    <talk name="姐姐" emotion="高兴">Also, like god will always leave you a door. I give you a chance to save your self.</talk>
+    <talk name="姐姐" emotion="高兴">There are clues in this bedroom. If you can find them, then you can live. Otherwise.... hhhhhh</talk>
+    <talk name="弟弟" emotion="高兴">Wait! Hey!</talk>
+    <talk>The woman leaves.</talk>
+</script>
